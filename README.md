@@ -11,7 +11,7 @@ This project is composed by two parts:
 This is the practical demo for the a Angular application uses mock APIs implemented using Deno.
 
 <p align="center">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--zaxNbWmc--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/7lxybbz4tj6o0ax1w9ox.png" alt="app_layout">
+<img src="https://github.com/ramanujprasad/ng-deno-mock/blob/main/src/assets/visual.png" alt="app_layout">
 </p> 
 
 ## Run the Angular app
